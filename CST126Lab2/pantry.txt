@@ -1,0 +1,8 @@
+chicken
+pork
+rice
+eggs
+onion
+garlic
+cereal
+beans
